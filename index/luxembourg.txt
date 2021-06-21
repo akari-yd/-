@@ -1,0 +1,21 @@
+docId:5
+docPath:D:\下载\qq下载\Java新实验一\Java新实验一\text\14.txt
+content:A Chinese wildlife park has sparked outcry after making visitors submit to facial recognition scanning, with one law professor taking it to court.
+Professor Guo Bing is taking action against Hangzhou safari park, after it replaced its existing fingerprinting system with the new technology.
+I filed this case because I feel that not only my privacy rights are being infringed upon but those of many others, Guo, from Zhejiang University of Sci-Tech, said according to an audio recording of an interview posted by state-run Beijing News.
+score:1.0
+termPostingMapping{recognition=docId:5 freq:1 position:[13]}docId:10
+docPath:D:\下载\qq下载\Java新实验一\Java新实验一\text\5.txt
+content:Google has announced that its image recognition AI will no longer identify people in images as a man or a woman. The change was revealed in an email to developers who use the company's Cloud Vision API that makes it easy for apps and services to identify objects in images.
+
+In the email, Google said it wasn't possible to detect a person's true gender based simply on the clothes they were wearing. But Google also said that they were dropping gender labels for another reason: they could create or reinforce biases.
+score:1.0
+termPostingMapping{recognition=docId:10 freq:1 position:[6]}docId:11
+docPath:D:\下载\qq下载\Java新实验一\Java新实验一\text\6.txt
+content:With a population of 602,000, Luxembourg is one of Europe's smallest countries -- yet it suffers from major traffic jams.
+
+But that could be about to change. As of March 1, 2020 all public transport -- trains, trams and buses -- in the country is now free.
+
+The government hopes the move will alleviate heavy congestion and bring environmental benefits, according to Dany Frank, a spokesperson for the Ministry of Mobility and Public Works.
+score:1.0
+termPostingMapping{luxembourg=docId:11 freq:1 position:[6]}
